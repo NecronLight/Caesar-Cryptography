@@ -6,7 +6,7 @@
 
 int main (int argc, string argv[])
 {
-    if (argc != 2) //check if the user inputs more than 1 key
+    if (argc != 2) //check if the user inputs has more than 1 key
     {
         printf("Usage: ./caesar key\n");
         return 1;
